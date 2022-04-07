@@ -221,9 +221,9 @@
     <!-- Battery Styles -->
     <string name="battery_percent_title">Status bar battery percentage</string>
     <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_icon_portrait">Icon portrait (default)</string>
-    <string name="status_bar_battery_style_icon_rlandscape">Icon landscape R</string>
-    <string name="status_bar_battery_style_icon_landscape">Icon landscape L</string>
+    <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
+    <string name="status_bar_battery_style_icon_rlandscape">Icon landscape R default</string>
+    <string name="status_bar_battery_style_icon_landscape">Icon landscape L default</string>
     <string name="status_bar_battery_style_circle">Circle</string>
     <string name="status_bar_battery_style_dotted_circle">Circle (Dotted)</string>
     <string name="status_bar_battery_style_filled_circle">Circle (Filled)</string>
@@ -241,6 +241,10 @@
     <string name="battery_show_percent_estimate_summary">Enable battery percent &amp; estimate together</string>
     <string name="left_battery_text_title">Left battery text</string>
     <string name="left_battery_text_summary">Put the battery text on left of battery icon</string>
+    <string name="status_bar_battery_style_icon_rlandscape_style_a">Landscape R Style A</string>
+    <string name="status_bar_battery_style_icon_landscape_style_a">Landscape L Style A</string>
+    <string name="status_bar_battery_style_icon_rlandscape_style_b">Landscape R Style B</string>
+    <string name="status_bar_battery_style_icon_landscape_style_b">Landscape L Style B</string>
 
     <!-- Adaptive icon shapes -->
     <string name="adaptive_icon_shape_default">Default</string>
